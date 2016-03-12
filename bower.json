@@ -1,0 +1,19 @@
+{
+  "name": "web_app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "cdj <cdj@qq.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {}
+}
